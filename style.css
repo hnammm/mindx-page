@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+
+
+}
+.nav{
+    margin: 0 10px;
+   width: 100px;
+   height: 60px; 
+   padding-top: 10px;
+}
+.about{
+    padding-top: 20px;
+    text-align: center;
+    width: 1060px;
+}
+.other{
+    text-align: center;
+    font-weight: lighter;
+    padding-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    font-size: small;
+}
+.info{
+    text-align: center;
+    font-size: 10px;
+    color: crimson;
+    padding-top: 30px;
+
+}
+
+    
+
+
+
+    
+    
+
+
+
+    
+    
+
